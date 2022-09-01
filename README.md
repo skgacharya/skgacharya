@@ -1,7 +1,6 @@
-<b>Summery</b>
+<b>Hello folks,</b>
 <p>IT Professional with 10+ years of experience in developing web-based applications, and business intelligence solutions for diverse industry clients. Highly instrumental in all phases of the SDLC, with expertise in algorithms and data structures. Successful in developing various projects and clients, optimizing business procedures, processes, and productivity.</p>
-
-<b>Skills & Tools</b>
+<b>Profile Summery</b>
 <ul>
 <li>A result-oriented professional experience in application development using Microsoft technologies. Currently working as Software Developer Manager.</li>
 <li>Passionate and pragmatic software engineer in C#, ASP.NET MVC5, Web API 2.0, Core MVC 3.0, LINQ and SQL Server.</li>
