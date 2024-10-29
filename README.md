@@ -1,5 +1,5 @@
 <b>Hello folks,</b>
-<p>IT Professional with 15+ years of experience in developing web-based applications, and business intelligence solutions for diverse industry clients. Highly instrumental in all phases of the SDLC, with expertise in algorithms and data structures. Successful in developing various projects and clients, optimizing business procedures, processes, and productivity.</p>
+<p>IT professional with over 15 years of experience in developing web-based applications and business intelligence solutions for diverse industry clients. Highly instrumental in all phases of the SDLC, with expertise in algorithms and data structures. Successful in developing various projects, optimizing business procedures, processes, and productivity.</p>
 <b>Profile Summery</b>
 <ul>
 <li>A result-oriented professional experience in application development using Microsoft technologies. Currently working as Software Developer Manager.</li>
@@ -16,3 +16,4 @@
 <li>Expertise tools such as Visual Studio, SQL Server, Visual Studio Code and GitHub.</li>
 <li>Co-ordinate and collaborate with team members and quickly fit into exiting team.</li>
 <li>Effective communicator with excellent relationship building and interpersonal skills.</li>
+</ul>
