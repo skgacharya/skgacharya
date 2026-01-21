@@ -1,15 +1,8 @@
-<b>Hello folks,</b>
+<h2>Hello folks,</h2>
 <h2>Professional Summary</h2>
-    <p>
-        <strong>PMP®-certified IT professional</strong> with <strong>18+ years of experience</strong> leading 
-        <strong>digital transformation</strong> and <strong>enterprise technology initiatives</strong>. 
-        Expert in <strong>project and delivery management</strong> with full ownership of the 
-        <strong>Software Development Life Cycle (SDLC)</strong>, complemented by strong 
-        <strong>full-stack development</strong> capabilities. Demonstrated success in implementing 
-        <strong>robust information security, quality governance, and cybersecurity risk practices</strong>, 
-        ensuring <strong>secure, compliant, and scalable solutions</strong> across 
-        <strong>regulated environments</strong>.
-    </p>
+<p>
+<strong>PMP® Certified IT professional</strong> with <strong>18+ years of experience</strong> leading <strong>digital transformation</strong> and <strong>enterprise technology initiatives</strong>. Expert in <strong>project and delivery management</strong> with full ownership of the <strong>Software Development Life Cycle (SDLC)</strong>, complemented by strong <strong>full-stack development</strong> capabilities. Demonstrated success in implementing <strong>robust information security, quality governance, and cybersecurity risk practices</strong>, ensuring <strong>secure, compliant, and scalable solutions</strong> across <strong>regulated environments</strong>.
+</p>
     <h2>Profile Summary</h2>
     <ul>
         <li>Result-oriented <strong>Application Development and Delivery Manager</strong> with extensive experience in Microsoft technologies.</li>
