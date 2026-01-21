@@ -10,7 +10,6 @@
         ensuring <strong>secure, compliant, and scalable solutions</strong> across 
         <strong>regulated environments</strong>.
     </p>
-
     <h2>Profile Summary</h2>
     <ul>
         <li>Result-oriented <strong>Application Development and Delivery Manager</strong> with extensive experience in Microsoft technologies.</li>
